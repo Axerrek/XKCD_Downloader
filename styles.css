@@ -1,0 +1,40 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #96a8c8;
+  padding-top: 20px;
+  text-align: center;
+}
+.header {
+  background-color: #fff;
+  width: 40%;
+  border: 1px solid black;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1em auto;
+}
+.card {
+  background-color: #fff;
+  width: 40%;
+  border: 1px solid black;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 0.5rem auto;
+}
+
+.card-img-top {
+  height: auto;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+#comic-numbers {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #333;
+}
